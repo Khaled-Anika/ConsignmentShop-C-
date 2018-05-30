@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojAssemblyReference.cache
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb

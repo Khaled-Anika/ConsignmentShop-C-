@@ -1,0 +1,13 @@
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojAssemblyReference.cache
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.cache
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
+c:\users\anika\documents\visual studio 2017\Projects\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CopyComplete
